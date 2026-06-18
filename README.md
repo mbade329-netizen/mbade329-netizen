@@ -19,5 +19,5 @@
 - Portfolio Website
 ## Connect With Me
 -portfolio:https://github.com/mbade329-netizen/bright-folio-bliss.git
-- LinkedIn: https://www.linkedin.com/in/bade-mani-b50622373
+-LinkedIn:https://www.linkedin.com/in/bade-mani-b50622373
 -GitHub:https://github.com/mbade329-netizen
