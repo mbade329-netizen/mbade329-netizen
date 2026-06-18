@@ -3,4 +3,12 @@
 🌱 Learning Android App Development
 💻 Interested in Programming and Technology
 📫 Connect with me on LinkedIn
-ffff55
+##Skills
+-java
+-python
+-andriod development
+-git & github
+## projects
+-Calculator App
+-TO-DO-App
+-portfolio website
