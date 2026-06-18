@@ -1,16 +1,22 @@
+
 # Hi, I'm Bade Mani 👋
 
+## About Me
 🌱 Learning Android App Development
 💻 Interested in Programming and Technology
-📫 Connect with me on LinkedIn
-##Skills
--java
--python
--andriod development
--git & github
-## projects
--Calculator App
--TO-DO-App
--portfolio website
-##connect with ME 
--linkedIn: Your LinkedIn Link
+🎓 CSE Student
+
+## Skills
+- HTML
+- CSS
+- python
+- Android Development(learning)
+- 
+
+## Projects
+- Calculator App
+- To-Do App
+- Portfolio Website
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/bade-mani-b50622373
